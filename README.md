@@ -1,6 +1,7 @@
 # Weather-App
 A Weather Forecasting web-application
- Link -> https://main-comfy-vacherin-73c8da.netlify.app/
+
+Link -> https://main-comfy-vacherin-73c8da.netlify.app/
 
  This is a simple weather forecasting app built with html, css and javascript.
  First it will ask user to input the location for which they need weather report and 
